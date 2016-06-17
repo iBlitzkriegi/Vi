@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vi.iml" filepath="$PROJECT_DIR$/.idea/modules/Vi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Vi_main.iml" group="Vi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Vi_test.iml" group="Vi" />
+    </modules>
+  </component>
+</project>
